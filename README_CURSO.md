@@ -237,6 +237,6 @@ git push -u origin main
 
 ## 6. Créditos y licencia
 
-Este taller fue para el curso **Creación de aplicaciones con IA: diseño y personalización de asistentes** de la **Universidad de los Andes**.
+Este taller fue generado para el curso **Creación de aplicaciones con IA: diseño y personalización de asistentes** de la **Universidad de los Andes**.
 
 ¡Éxitos creando tus propios asistentes inteligentes! 🚀
